@@ -1,0 +1,16 @@
+{
+  "codename": "Top",
+  "ttf_path": "/assets/LCARSGTJ3.ttf",
+  "bin_path": "/assets/ui_font_Top.bin",
+  "c_path": "/assets/ui_font_Top.c",
+  "cfg_path": "/assets/ui_font_Top.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
