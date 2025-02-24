@@ -12,6 +12,8 @@ The goal of this project is to develop an ESP32-based battery monitor display fo
 - **Display Timeout with Touch Wake Function:** To save energy, the display turns off after a period of inactivity and can be reactivated by touch.
 - **LCARS Design:** The user interface is designed in the Star Trek LCARS style.
 
+![UI](pic/pic.png)
+
 ## Hardware Requirements:
 
 - **ESP32 Dev Board** as the central processing unit
