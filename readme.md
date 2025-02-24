@@ -1,4 +1,4 @@
-# Project Description: Battery Monitor with Display and Signal K Integration**
+# Project Description: Battery Monitor with Display and Signal K Integration
 
 ## Project Goal:
 The goal of this project is to develop an ESP32-based battery monitor display for monitoring battery systems on a boat. The system is integrated into the Signal K network and visualizes real-time data on voltage, current, temperature, and remaining battery life.
